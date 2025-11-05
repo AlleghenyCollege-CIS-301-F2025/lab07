@@ -175,6 +175,10 @@ Consider methodological limitations, data constraints, and directions for future
 
 TODO
 
+### Q21: Please describe how the tasks of this project were divided across the group members.
+
+TODO
+
 ---
 
 ## Final Checklist
