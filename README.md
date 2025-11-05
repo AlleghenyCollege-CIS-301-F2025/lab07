@@ -133,6 +133,7 @@ Complete the reflection questionnaire in `writing/reflection.md` that addresses:
 
 **Next lab session:** Each group will present their findings in a 5-7 minute presentation highlighting:
 
+- The following lab time will be used for group presentations of your findings. Each group will present their key results, visualizations, and interpretations. Focus on clarity, conciseness, and the significance of your findings.
 - Your three hypotheses and their theoretical basis
 - Key methodological approaches used
 - Most significant findings across countries
@@ -191,7 +192,7 @@ The grade that a student receives on this assignment will have the following com
 + **Mastery of Technical Knowledge and Skills [up to 35%]:** Students will receive a portion of their assignment grade when their program implementation reveals that they have mastered all of the technical knowledge and skills developed during the completion of this assignment. As a part of this grade, the instructor will assess aspects of the programming including, but not limited to, the completeness and the correctness of the program and the use of effective source code comments.
 
 - **Presentation [up to 30%]:**
-Students will receive a checkmark grade for presentations. Student must be present to receive credit for presentation.
+Students will receive a grade to indicate contribution to presentations. Student must be present and speak to receive credit for presentation.
 
 ## GatorGrade
 
