@@ -8,8 +8,6 @@
 print("The names of this group are the following.")
 print("Add Your Name Here")
 print("Add Your Name Here")
-print("Add Your Name Here")
-print("Add Your Name Here")
 
 #######################################################
 print("The name of this group is the following.")
